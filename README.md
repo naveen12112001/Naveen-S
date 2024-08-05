@@ -1,7 +1,7 @@
-# Hi there!!👋 
+# Hi there this is Naveen S!!👋 
 # Fullstack Dev!👨🏻‍💻
 
-<p>I am Naveen S , I like Problem Solving,
+<p>I like Problem Solving,
     Mental Calculations,
     Brain Stormers,
     Cricket,
