@@ -30,7 +30,7 @@ I’m passionate about **system design, performance optimization, and building r
 
 ### 🗄️ Database
 
-`MySQL` `Firebase`
+`MySQL` `Firebase` `MongoDB`
 
 ### 🚀 DevOps & Tools
 
@@ -59,7 +59,7 @@ I’m passionate about **system design, performance optimization, and building r
 
 If you're building something interesting or need a developer who loves solving real-world problems — let's connect!
 
-📫 Reach me: *(Add your email or LinkedIn here)*
+📫 Reach me: https://www.linkedin.com/in/naveen-s-85a15a1b1
 
 ---
 
